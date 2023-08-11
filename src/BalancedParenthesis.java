@@ -20,7 +20,7 @@ public class BalancedParenthesis {
 
         }
 if(s.size()==0)
-    System.out.println("Balanced Parenthesis so it is good"  );
+    System.out.println("Balanced Parenthesis"  );
 else
     System.out.println("Not Balanced Parenthesis");
 
